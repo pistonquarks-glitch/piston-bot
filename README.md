@@ -1,7 +1,7 @@
-# Piston Bot
+﻿# Piston Bot
 
 <p align="center">
-  <img src="assets/logo-neon.png" alt="Piston Bot" width="220" />
+  <img src="assets/logo-cromado.png" alt="Piston Bot" width="220" />
 </p>
 
 <p align="center">
